@@ -1,6 +1,6 @@
 # PREVISÃO DE DEMANDA DE VINHOS
 
-<center><img src="https://drive.google.com/uc?export=view&id=1CvwqPTZceSG3NtE2cOmMVB-3sWtCF2vS" width="80%"></p></center>
+<center><img src="copo-de-vinho-tinto-e-garrafa-no-balcao-de-bar.jpg" width="80%"></p></center>
 
 # Previsão de demanda
 
